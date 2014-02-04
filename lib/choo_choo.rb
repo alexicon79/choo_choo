@@ -4,7 +4,7 @@ module ChooChoo
 
   class Say
     def self.choo
-      return "Choo! Choo!"
+      return "Choo! Choåäö!"
     end
   end
 
