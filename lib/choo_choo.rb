@@ -8,4 +8,10 @@ module ChooChoo
     end
   end
 
+  class Calculation
+    def self.count(activities)
+      return activities.count
+    end
+  end
+
 end
